@@ -8,6 +8,13 @@ namespace PersonRegistration.Tests
     public class PersonValidatorTests
     {
         private readonly PersonValidator _validator = new();
+        
+        [Fact]
+        public void Person_FutureBirthdate_IsNotEligible()
+        {
+            var person = new Person { DateOfBirth = DateTime.Today.AddDays(1) };
+            Assert.False(_validator.IsEligibleForRegistration(person));
+        }
 
         [Fact]
         public void Person_Under16_IsNotEligible()

@@ -111,3 +111,7 @@ D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistrat
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\obj\Debug\net8.0\PersonRegistration.Tests.pdb
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\obj\Debug\net8.0\PersonRegistration.Tests.genruntimeconfig.cache
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\obj\Debug\net8.0\ref\PersonRegistration.Tests.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\obj\Debug\net8.0\PersonRegistration.Tests.sourcelink.json
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

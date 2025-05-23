@@ -13,3 +13,4 @@ D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistrat
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Infrastructure\obj\Debug\net8.0\refint\PersonRegistration.Infrastructure.dll
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Infrastructure\obj\Debug\net8.0\PersonRegistration.Infrastructure.pdb
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Infrastructure\obj\Debug\net8.0\ref\PersonRegistration.Infrastructure.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Infrastructure\obj\Debug\net8.0\PersonRegistration.Infrastructure.sourcelink.json

@@ -1,5 +1,5 @@
-﻿// Updated: Application/Services/PersonRegistrationService.cs
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 using PersonRegistration.Domain.Interfaces;
 using PersonRegistration.Domain.Models;
 using PersonRegistration.Domain.Validators;
@@ -11,21 +11,38 @@ namespace PersonRegistration.Application.Services
         private readonly IPersonRepository _repository;
         private readonly IPersonValidator _validator;
         private readonly ILogger<PersonRegistrationService> _logger;
+        private readonly IConfiguration _config;
 
-        public PersonRegistrationService(IPersonRepository repository, IPersonValidator validator, ILogger<PersonRegistrationService> logger)
+        public PersonRegistrationService(
+            IPersonRepository repository,
+            IPersonValidator validator,
+            ILogger<PersonRegistrationService> logger,
+            IConfiguration config)
         {
             _repository = repository;
             _validator = validator;
             _logger = logger;
+            _config = config;
         }
 
-        public bool RegisterPerson(Person person, Spouse? spouse, string? spouseFilePath)
+        public string GetSpouseDirectory()
+        {
+            // Combine the configured base path  with the "spouses" folder
+            var dataDirectory = _config["DataDirectory"];
+            if (string.IsNullOrWhiteSpace(dataDirectory))
+                throw new InvalidOperationException("Missing 'DataDirectory' in configuration.");
+
+            var subFolder = _config["SpouseDirectory"] ?? "spouses";
+
+            return Path.Combine(dataDirectory, subFolder);
+        }
+
+        public bool RegisterPerson(Person person, Spouse spouse, string spouseFilePath)
         {
             _logger.LogInformation("Attempting to register person: {FirstName} {LastName}", person.FirstName, person.Surname);
-
             if (!_validator.IsEligibleForRegistration(person))
             {
-                _logger.LogWarning("Registration denied for {FirstName} {LastName} due to validation failure.", person.FirstName, person.Surname);
+                _logger.LogWarning("Person {FirstName} {LastName} is not eligible for registration.", person.FirstName, person.Surname);
                 return false;
             }
 

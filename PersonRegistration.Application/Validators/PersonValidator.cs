@@ -7,10 +7,16 @@ namespace PersonRegistration.Application.Validators
     {
         public bool IsEligibleForRegistration(Person person)
         {
-            if (person.Age < 16)
+            var today = DateTime.Today;
+            if (person.DateOfBirth > today)
                 return false;
 
-            if (person.Age < 18 && person.ParentalAuthorization != true)
+            int age = today.Year - person.DateOfBirth.Year;
+            if (person.DateOfBirth.Date > today.AddYears(-age)) age--;
+
+            if (age < 16)
+                return false;
+            if (age < 18 && person.ParentalAuthorization != true)
                 return false;
 
             return true;

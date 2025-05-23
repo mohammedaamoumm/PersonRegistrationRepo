@@ -55,3 +55,5 @@ D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistrat
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.ConsoleApp\obj\Debug\net8.0\PersonRegistration.ConsoleApp.pdb
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.ConsoleApp\obj\Debug\net8.0\PersonRegistration.ConsoleApp.genruntimeconfig.cache
 D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.ConsoleApp\obj\Debug\net8.0\ref\PersonRegistration.ConsoleApp.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.ConsoleApp\obj\Debug\net8.0\PersonRegistration.ConsoleApp.sourcelink.json
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.ConsoleApp\bin\Debug\net8.0\appsettings.json
