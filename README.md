@@ -1,6 +1,6 @@
 # Person Registration Console Application
 
-The **Person Registration** console application collects personal details from the user and stores them in text files. It prompts for the first name, surname, date of birth, and marital status. If the user is under 18, parental authorization is required, if not authorized, registration is denied outright. Married users are prompted to enter their spouse’s information, which is saved in a separate file. Valid registrations are appended to `c:\people\People.txt`, and any spouse details are saved under `c:\people\spouses\[FirstName]_[Surname]_[suffix].txt`. (Suffixes can be added to the filename to avoid name conflicts.) Logging is enabled to trace the registration steps and outcomes.
+The **Person Registration** console application collects personal details from the user and stores them in text files. It prompts for the first name, surname, date of birth, and marital status. If the user is under 18, parental authorization is required; if under 16, registration is denied outright.Married users are prompted to enter their spouse’s information, which is saved in a separate file. Valid registrations are appended to `c:\people\People.txt`, and any spouse details are saved under `c:\people\spouses\[FirstName]_[Surname]_[suffix].txt`. (Suffixes can be added to the filename to avoid name conflicts.) Logging is enabled to trace the registration steps and outcomes.
 
 ## Setup and Dependencies
 
