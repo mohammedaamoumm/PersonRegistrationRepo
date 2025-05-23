@@ -1,0 +1,15 @@
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\bin\Debug\net8.0\PersonRegistration.Application.deps.json
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\bin\Debug\net8.0\PersonRegistration.Application.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\bin\Debug\net8.0\PersonRegistration.Application.pdb
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\bin\Debug\net8.0\PersonRegistration.Domain.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\bin\Debug\net8.0\PersonRegistration.Domain.pdb
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.csproj.AssemblyReference.cache
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.AssemblyInfoInputs.cache
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.AssemblyInfo.cs
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.csproj.CoreCompileInputs.cache
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRe.7E18C2D7.Up2Date
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\refint\PersonRegistration.Application.dll
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\PersonRegistration.Application.pdb
+D:\documents persoTravail\DocumentsTravail\randstad\client Esher\PersonRegistration\PersonRegistration.Application\obj\Debug\net8.0\ref\PersonRegistration.Application.dll

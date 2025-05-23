@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.domain\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|solutionrelative:personregistration.domain\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.domain\\validators\\ipersonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|solutionrelative:personregistration.domain\\validators\\ipersonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.domain\\enums\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|solutionrelative:personregistration.domain\\enums\\maritalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA4C08F-61B8-4AC3-B95C-CFEA70AA7797}|PersonRegistration.Application\\PersonRegistration.Application.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.application\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA4C08F-61B8-4AC3-B95C-CFEA70AA7797}|PersonRegistration.Application\\PersonRegistration.Application.csproj|solutionrelative:personregistration.application\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791706B4-623E-4FD5-8A82-E02F9CC46CD3}|PersonRegistration.Tests\\PersonRegistration.Tests.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.tests\\personregistrationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791706B4-623E-4FD5-8A82-E02F9CC46CD3}|PersonRegistration.Tests\\PersonRegistration.Tests.csproj|solutionrelative:personregistration.tests\\personregistrationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791706B4-623E-4FD5-8A82-E02F9CC46CD3}|PersonRegistration.Tests\\PersonRegistration.Tests.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.tests\\personvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791706B4-623E-4FD5-8A82-E02F9CC46CD3}|PersonRegistration.Tests\\PersonRegistration.Tests.csproj|solutionrelative:personregistration.tests\\personvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791706B4-623E-4FD5-8A82-E02F9CC46CD3}|PersonRegistration.Tests\\PersonRegistration.Tests.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.tests\\personregistration.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{791706B4-623E-4FD5-8A82-E02F9CC46CD3}|PersonRegistration.Tests\\PersonRegistration.Tests.csproj|solutionrelative:personregistration.tests\\personregistration.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.domain\\models\\spouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|solutionrelative:personregistration.domain\\models\\spouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DB300-6278-4BEF-A699-F452F0B2D615}|PersonRegistration.ConsoleApp\\PersonRegistration.ConsoleApp.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E38DB300-6278-4BEF-A699-F452F0B2D615}|PersonRegistration.ConsoleApp\\PersonRegistration.ConsoleApp.csproj|solutionrelative:personregistration.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|d:\\documents persotravail\\documentstravail\\randstad\\client esher\\personregistration\\personregistration.domain\\interfaces\\iuserinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD3E6EC9-23D6-4E95-9E2B-EE39ADFD2D24}|PersonRegistration.Domain\\PersonRegistration.Domain.csproj|solutionrelative:personregistration.domain\\interfaces\\iuserinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Domain\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "PersonRegistration.Domain\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:42:50.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonValidator.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Validators\\IPersonValidator.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Domain\\Validators\\IPersonValidator.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Validators\\IPersonValidator.cs",
+              "RelativeToolTip": "PersonRegistration.Domain\\Validators\\IPersonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:43:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaritalStatus.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Enums\\MaritalStatus.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Domain\\Enums\\MaritalStatus.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Enums\\MaritalStatus.cs",
+              "RelativeToolTip": "PersonRegistration.Domain\\Enums\\MaritalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:41:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Application\\Validators\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Application\\Validators\\PersonValidator.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Application\\Validators\\PersonValidator.cs",
+              "RelativeToolTip": "PersonRegistration.Application\\Validators\\PersonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:48:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonRegistrationServiceTests.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Tests\\PersonRegistrationServiceTests.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Tests\\PersonRegistrationServiceTests.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Tests\\PersonRegistrationServiceTests.cs",
+              "RelativeToolTip": "PersonRegistration.Tests\\PersonRegistrationServiceTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:09:55.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonValidatorTests.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Tests\\PersonValidatorTests.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Tests\\PersonValidatorTests.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Tests\\PersonValidatorTests.cs",
+              "RelativeToolTip": "PersonRegistration.Tests\\PersonValidatorTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:30:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonRegistration.Tests.csproj",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Tests\\PersonRegistration.Tests.csproj",
+              "RelativeDocumentMoniker": "PersonRegistration.Tests\\PersonRegistration.Tests.csproj",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Tests\\PersonRegistration.Tests.csproj",
+              "RelativeToolTip": "PersonRegistration.Tests\\PersonRegistration.Tests.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T05:06:20.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spouse.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Models\\Spouse.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Domain\\Models\\Spouse.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Models\\Spouse.cs",
+              "RelativeToolTip": "PersonRegistration.Domain\\Models\\Spouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:31:23.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.ConsoleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonRegistration.ConsoleApp\\appsettings.json",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.ConsoleApp\\appsettings.json",
+              "RelativeToolTip": "PersonRegistration.ConsoleApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T04:31:31.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserInteractionService.cs",
+              "DocumentMoniker": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Interfaces\\IUserInteractionService.cs",
+              "RelativeDocumentMoniker": "PersonRegistration.Domain\\Interfaces\\IUserInteractionService.cs",
+              "ToolTip": "D:\\documents persoTravail\\DocumentsTravail\\randstad\\client Esher\\PersonRegistration\\PersonRegistration.Domain\\Interfaces\\IUserInteractionService.cs",
+              "RelativeToolTip": "PersonRegistration.Domain\\Interfaces\\IUserInteractionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:43:17.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
